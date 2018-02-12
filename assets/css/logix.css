@@ -1,0 +1,25 @@
+
+
+
+p.img-lbl {
+    position: absolute;
+    bottom: 5px;
+    left:0;
+    right: 0;
+    background: #4aaaa5;
+    color:#fff;
+    padding:10px;
+    font-size: 20px;
+    margin-bottom: 0px 0px 10px 0px;
+}
+
+.img-wrap {
+    position: relative;
+    text-align: center;
+}
+
+.douglass {
+    width:300px;
+    
+}
+
