@@ -99,12 +99,22 @@ p {
 .panel {
     margin-bottom: 0px;
     margin-top:30px;
-    padding: 0;
+    
 
 }
 
 .img-thumbnail {
     border: 0 none;
     box-shadow: none;
+}
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+
+}
+
+a {
+    padding:10px;
 }
 
